@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**RMB-1/RMB-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Ayush](https://i.imgur.com/XtCq1iv.png)
 
 ## My Stats
 
