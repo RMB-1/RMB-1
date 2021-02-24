@@ -2,8 +2,10 @@
 
 
 ## My Stats
+[![RMB-1's github stats](https://github-readme-stats.vercel.app/api?username=RMB-1&count_private=true&include_all_commits=true&theme=tokyonight)]
 <p align="center">
-  [![RMB-1's github stats](https://github-readme-stats.vercel.app/api?username=RMB-1&count_private=true&include_all_commits=true&theme=tokyonight)](https://github.com/RMB-1)
+  <a href="https://github.com/RMB-1">
+    <img src="https://github-readme-stats.vercel.app/api?username=RMB-1&count_private=true&include_all_commits=true&theme=tokyonight" alt="RMB-1's github stats">
 </p>
 
 # Mochi
