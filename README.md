@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/RMB-1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchii&show_icons=true&&layout=compact&theme=tokyonight" alt="RMB-1's github stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMB-1&show_icons=true&&layout=compact&theme=tokyonight" alt="RMB-1's github stats">
 </p>
 
 # Mochi
